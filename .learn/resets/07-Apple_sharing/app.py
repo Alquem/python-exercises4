@@ -4,9 +4,9 @@
 #Hint: You can resolve this exercise either importing the math module or without it 
 def apple_sharing(n,k):
   
-  return k//n, k%n
+  return None
  
     
 
 #Print the two answer per the example output.
-print(apple_sharing(4, 70))
+print(apple_sharing())
