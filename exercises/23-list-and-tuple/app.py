@@ -1,0 +1,5 @@
+cs_numbers = input()
+cs_numbers_list = cs_numbers.split(",")
+cs_numbers_tuple = tuple(cs_numbers_list)
+print(cs_numbers_list)
+print(cs_numbers_tuple)
