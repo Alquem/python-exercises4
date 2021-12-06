@@ -7,5 +7,5 @@ for c in s:
         d["LETTERS"]+=1
     else:
         pass
-print "LETTERS", d["LETTERS"]
-print "DIGITS", d["DIGITS"]
+print("LETTERS", d["LETTERS"])
+print("DIGITS", d["DIGITS"])

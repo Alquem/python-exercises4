@@ -12,4 +12,4 @@ while True:
         netAmount-=amount
     else:
         pass
-print netAmount
+print(netAmount)

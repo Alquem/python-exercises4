@@ -1,0 +1,6 @@
+person_list = input().split(" ")
+#print(person_list)
+output = sorted(person_list, key=lambda x: x[2])
+output = sorted(output, key=lambda x: x[1])
+output = sorted(output, key=lambda x: x[0])
+print([tuple(i.split(",")) for i in output])

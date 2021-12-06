@@ -5,4 +5,4 @@ for p in items:
     if not intp%5:
         value.append(p)
 
-print ','.join(value)
+print(','.join(value))

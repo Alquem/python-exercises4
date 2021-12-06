@@ -7,4 +7,4 @@ while True:
         break;
 
 for sentence in lines:
-    print sentence
+    print(sentence)

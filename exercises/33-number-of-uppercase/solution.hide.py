@@ -7,5 +7,5 @@ for c in s:
         d["LOWER CASE"]+=1
     else:
         pass
-print "UPPER CASE", d["UPPER CASE"]
-print "LOWER CASE", d["LOWER CASE"]
+print("UPPER CASE", d["UPPER CASE"])
+print("LOWER CASE", d["LOWER CASE"])
