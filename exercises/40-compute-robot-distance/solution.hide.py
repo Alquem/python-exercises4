@@ -18,4 +18,4 @@ while True:
     else:
         pass
 
-print int(round(math.sqrt(pos[1]**2+pos[0]**2)))
+print(int(round(math.sqrt(pos[1]**2+pos[0]**2))))
